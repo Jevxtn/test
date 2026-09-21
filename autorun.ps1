@@ -10,7 +10,6 @@ $ToolDir = "C:\Lab"
 $KeylogFile = "C:\Lab\keylog.txt"
 $Tools = @{
     "winPEASx64.exe" = "https://github.com/peass-ng/PEASS-ng/releases/latest/download/winPEASx64.exe"
-    "LaZagne.exe"    = "https://github.com/AlessandroZ/LaZagne/releases/latest/download/LaZagne.exe"
     "mimikatz.zip"   = "https://github.com/gentilkiwi/mimikatz/releases/latest/download/mimikatz_trunk.zip"
     "chrome-injector-v0.20.0.zip"  = "https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption/releases/download/v0.20.0/chrome-injector-v0.20.0.zip"
 }
